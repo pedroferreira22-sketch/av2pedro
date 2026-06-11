@@ -22,7 +22,7 @@ header{
 
 .cabecalho_imagem{
     width: 250px;
-    height: 50PX;
+    height: 200PX;
 }
 
 .titulo_site{
@@ -43,6 +43,8 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 200px;
+    height: auto;
 }
 
 .escola-image {
