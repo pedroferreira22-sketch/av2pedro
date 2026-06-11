@@ -21,8 +21,8 @@ header{
 }
 
 .cabecalho_imagem{
-    width: 250px;
-    height: 200PX;
+    width: 400px;
+    height: 250PX;
 }
 
 .titulo_site{
@@ -48,8 +48,8 @@ header{
 }
 
 .escola-image {
-    width: 80%;
-    max-width: 1200px;
+    width: 45%;
+    max-width: 1000px;
 }
 
 .txtbanner {
