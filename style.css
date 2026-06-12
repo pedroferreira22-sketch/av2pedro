@@ -48,9 +48,9 @@ header{
 }
 
 .escola-image {
-    width: 200%;
+    width: 200px;
     max-width: 1200px;
-    height: auto;
+    height: 250px;
 }
 
 .txtbanner {
