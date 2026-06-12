@@ -50,6 +50,7 @@ header{
 .escola-image {
     width: 200%;
     max-width: 1200px;
+    height: auto;
 }
 
 .txtbanner {
